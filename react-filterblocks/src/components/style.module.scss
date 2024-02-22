@@ -1,0 +1,63 @@
+.vacancies{
+display: flex;
+flex-direction: column;
+gap: 50px;
+align-items: center;
+}
+
+.list {
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+}
+
+.content {
+    width: 800px;
+    border-radius: 12px;
+    border: 1px solid #eaebed;
+    padding: 24px;
+    gap: 5px;
+    display: flex;
+    flex-direction: column;
+
+    h1 {
+        font: 600 20px Inter;
+        color: #5E96FC;
+        margin-bottom: 10px;
+    }
+
+    .text {
+        align-items: center;
+        gap: 20px;
+        display: flex;
+
+
+        p {
+            font: 600 16px Inter;
+            color: black;
+            margin-bottom: 10px;
+        }
+
+        .workTime {
+            font: 400 16px Inter;
+            color: black;
+        }
+    }
+
+    .flexLocation {
+        display: flex;
+        gap: 20px;
+        align-items: center;
+
+        p {
+            font: 400 16px Inter;
+            color: #232134;
+        }
+
+        .dot{
+            position: relative;
+            top: -5px;
+        }
+    }
+
+}
