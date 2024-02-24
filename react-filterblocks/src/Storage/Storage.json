@@ -1,0 +1,905 @@
+[
+    {
+        "id": 1,
+        "title": "JavaScript Developer",
+        "salary": "od 70000 zł",
+        "time": "Pełny etat",
+        "location": "Warszawa",
+        "category": "Technologie informacyjne",
+        "responsibilities": [
+            "Rozwój designu dla reklamy zewnętrznej, wewnętrznej, poligrafii i gadżetów.",
+            "Przygotowywanie i projektowanie layoutów w CorelDraw, Adobe Photoshop.",
+            "Tworzenie projektów logo i brandbooków."
+        ],
+        "requirements": [
+            "Znajomość JavaScript",
+            "Doświadczenie w HTML i CSS",
+            "Umiejętność pracy z bibliotekami i frameworkami, takimi jak React lub Angular",
+            "Zrozumienie zasad responsywnej oraz adaptacyjnej strony internetowej"
+        ],
+        "conditions": [
+            "Zatrudnienie na umowę o pracę",
+            "Premie za wyniki pracy"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Python Developer",
+        "salary": "od 50000 zł",
+        "time": "Pełny etat",
+        "location": "Gdańsk",
+        "category": "Technologie informacyjne",
+        "responsibilities": [
+            "Rozwój i wsparcie serwerowej części aplikacji internetowych w języku Python",
+            "Udział w projektowaniu i architekturze rozwiązań programowych",
+            "Optymalizacja i poprawa wydajności aplikacji"
+        ],
+        "requirements": [
+            "Znajomość języka programowania Python",
+            "Doświadczenie w pracy z frameworkami Django lub Flask",
+            "Zrozumienie podstaw baz danych i języka SQL"
+        ],
+        "conditions": [
+            "Elastyczny czas pracy",
+            "Możliwość pracy zdalnej"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Java Developer",
+        "salary": "od 70000 zł",
+        "time": "Pełny etat",
+        "location": "Gdańsk",
+        "category": "Technologie informacyjne",
+        "responsibilities": [
+            "Rozwój i wsparcie aplikacji Java",
+            "Udział w projektowaniu architektury systemu",
+            "Optymalizacja i testowanie kodu"
+        ],
+        "requirements": [
+            "Znajomość języka programowania Java",
+            "Doświadczenie w pracy z frameworkami Spring lub Hibernate",
+            "Zrozumienie podstaw programowania obiektowego"
+        ],
+        "conditions": [
+            "Oficjalne zatrudnienie zgodnie z Kodeksem Pracy",
+            "Korporacyjne programy szkoleniowe"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Frontend Developer",
+        "salary": "od 60000 zł",
+        "time": "Pełny etat",
+        "location": "Warszawa",
+        "category": "Technologie informacyjne",
+        "responsibilities": [
+            "Rozwój i podtrzymywanie klientowej części aplikacji internetowych",
+            "Optymalizacja interfejsów dla maksymalnej wydajności i wygody użytkowania",
+            "Współpraca z projektantami i programistami backendowymi"
+        ],
+        "requirements": [
+            "Znajomość HTML, CSS, JavaScript",
+            "Doświadczenie w pracy z frameworkiem React",
+            "Zrozumienie zasad działania interfejsów API typu RESTful"
+        ],
+        "conditions": [
+            "Zatrudnienie na warunkach Kodeksu Pracy",
+            "Elastyczny czas pracy"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Projektant UI/UX",
+        "salary": "wynagrodzenie od 50000 zł",
+        "time": "Pełny etat",
+        "location": "Łódź",
+        "category": "Technologie informacyjne",
+        "responsibilities": [
+            "Tworzenie projektów graficznych dla aplikacji internetowych i mobilnych",
+            "Projektowanie interfejsów użytkownika",
+            "Analiza i testowanie doświadczenia użytkownika"
+        ],
+        "requirements": [
+            "Umiejętność pracy z edytorami graficznymi, takimi jak Adobe Photoshop, Adobe Illustrator",
+            "Znajomość zasad i metod projektowania UI/UX",
+            "Doświadczenie w prototypowaniu"
+        ],
+        "conditions": [
+            "Możliwości rozwoju kariery",
+            "Interesujące projekty"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Inżynier QA",
+        "salary": "wynagrodzenie od 45000 zł",
+        "time": "Pełny etat",
+        "location": "Wrocław",
+        "category": "Technologie informacyjne",
+        "responsibilities": [
+            "Testowanie aplikacji internetowych i mobilnych na różnych urządzeniach i platformach",
+            "Tworzenie i wykonywanie scenariuszy testowych",
+            "Analiza wyników testów i tworzenie raportów"
+        ],
+        "requirements": [
+            "Doświadczenie w testowaniu oprogramowania",
+            "Zrozumienie zasad testowania i metodologii rozwoju",
+            "Znajomość języka SQL do tworzenia zapytań"
+        ],
+        "conditions": [
+            "Zatrudnienie na podstawie Kodeksu Pracy",
+            "Szkolenia korporacyjne"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Analityk danych",
+        "salary": "wynagrodzenie od 60000 zł",
+        "time": "Pełny etat",
+        "location": "Warszawa",
+        "category": "Technologie informacyjne",
+        "responsibilities": [
+            "Analiza i przetwarzanie dużych zbiorów danych",
+            "Tworzenie i wdrażanie modeli i algorytmów analitycznych",
+            "Tworzenie raportów i wizualizacja danych"
+        ],
+        "requirements": [
+            "Doświadczenie w pracy z bazami danych i językami zapytań (SQL)",
+            "Umiejętność pracy z narzędziami do analizy danych, takimi jak Python, R lub Excel",
+            "Zrozumienie metod statystycznych analizy danych"
+        ],
+        "conditions": [
+            "Elastyczny czas pracy",
+            "Możliwość rozwoju kariery"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Kierownik projektu",
+        "salary": "wynagrodzenie od 80000 zł",
+        "time": "Pełny etat",
+        "location": "Kraków",
+        "category": "Technologie informacyjne",
+        "responsibilities": [
+            "Planowanie, organizacja i kontrola realizacji projektów",
+            "Zarządzanie budżetem i zasobami projektu",
+            "Współpraca z klientami i zespołem deweloperskim"
+        ],
+        "requirements": [
+            "Doświadczenie w zarządzaniu projektami",
+            "Znajomość metodologii rozwoju i zarządzania projektami (np. Agile, Scrum)",
+            "Umiejętność pracy z narzędziami projektowymi i systemami zarządzania zadaniami"
+        ],
+        "conditions": [
+            "Oficjalne zatrudnienie",
+            "Szkolenia korporacyjne i rozwój"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Programista Backend",
+        "salary": "wynagrodzenie od 70000 zł",
+        "time": "Pełny etat",
+        "location": "Warszawa",
+        "category": "Technologie informacyjne",
+        "responsibilities": [
+            "Rozwój serwerowej części aplikacji internetowych",
+            "Optymalizacja i poprawa wydajności",
+            "Integracja z zewnętrznymi API i usługami"
+        ],
+        "requirements": [
+            "Znajomość języka programowania (np. Java, Python, C#)",
+            "Doświadczenie w pracy z frameworkami i technologiami backendowymi",
+            "Zrozumienie zasad działania interfejsów RESTful API"
+        ],
+        "conditions": [
+            "Zatrudnienie na podstawie Kodeksu Pracy",
+            "Elastyczny czas pracy"
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Programista mobilny",
+        "salary": "wynagrodzenie od 60000 zł",
+        "time": "Pełny etat",
+        "location": "Łódź",
+        "category": "Technologie informacyjne",
+        "responsibilities": [
+            "Rozwój aplikacji mobilnych na platformę Android lub iOS",
+            "Optymalizacja i testowanie aplikacji",
+            "Integracja z zewnętrznymi API i usługami"
+        ],
+        "requirements": [
+            "Znajomość języków programowania Java lub Kotlin (dla Androida) / Swift (dla iOS)",
+            "Doświadczenie w tworzeniu aplikacji mobilnych",
+            "Zrozumienie zasad działania platform mobilnych i narzędzi deweloperskich"
+        ],
+        "conditions": [
+            "Możliwości rozwoju kariery",
+            "Interesujące projekty"
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Administrator sieciowy",
+        "salary": "wynagrodzenie od 60000 zł",
+        "time": "Pełny etat",
+        "location": "Warszawa",
+        "category": "Technologie informacyjne",
+        "responsibilities": [
+            "Konfiguracja, administrowanie i wsparcie infrastruktury sieciowej",
+            "Monitorowanie i zapewnienie bezpieczeństwa sieci",
+            "Rozwiązywanie problemów związanych z siecią i komunikacją"
+        ],
+        "requirements": [
+            "Znajomość protokołów i technologii infrastruktury sieciowej",
+            "Doświadczenie w pracy z urządzeniami Cisco",
+            "Umiejętności konfigurowania i obsługi serwerów oraz sprzętu sieciowego"
+        ],
+        "conditions": [
+            "Zatrudnienie na podstawie Kodeksu Pracy",
+            "Elastyczny czas pracy"
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Menadżer ds. Sprzedaży",
+        "salary": "wynagrodzenie od 40000 zł",
+        "time": "Pełny etat",
+        "location": "Warszawa",
+        "category": "Technologie informacyjne",
+        "responsibilities": [
+            "Poszukiwanie i pozyskiwanie klientów",
+            "Przeprowadzanie negocjacji i zawieranie transakcji",
+            "Zarządzanie portfelem klientów i utrzymanie relacji z klientami"
+        ],
+        "requirements": [
+            "Doświadczenie w pracy w sprzedaży",
+            "Umiejętność prowadzenia negocjacji i przekonywania",
+            "Znajomość systemów CRM i narzędzi sprzedażowych"
+        ],
+        "conditions": [
+            "Zatrudnienie na podstawie Kodeksu Pracy",
+            "Bonusy i premie za wyniki pracy"
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Inżynier DevOps",
+        "salary": "wynagrodzenie od 70000 zł",
+        "time": "Pełny etat",
+        "location": "Warszawa",
+        "category": "Technologie informacyjne",
+        "responsibilities": [
+            "Konfigurowanie i wsparcie systemów automatyzacji wdrażania i zarządzania aplikacjami",
+            "Konfiguracja i monitorowanie infrastruktury serwerowej",
+            "Rozwój i wsparcie procesów CI/CD"
+        ],
+        "requirements": [
+            "Doświadczenie w pracy z systemami konteneryzacji (np. Docker, Kubernetes)",
+            "Umiejętności automatyzacji wdrażania i zarządzania infrastrukturą (np. Ansible, Terraform)",
+            "Zrozumienie podstawowych zasad podejścia DevOps"
+        ],
+        "conditions": [
+            "Zatrudnienie na podstawie Kodeksu Pracy",
+            "Możliwość pracy zdalnej"
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Data Scientist",
+        "salary": "wynagrodzenie od 80000 zł",
+        "time": "Pełny etat",
+        "location": "Warszawa",
+        "category": "Technologie informacyjne",
+        "responsibilities": [
+            "Rozwój i zastosowanie algorytmów uczenia maszynowego",
+            "Analiza i przetwarzanie dużych zbiorów danych",
+            "Tworzenie modeli prognostycznych i optymalizacja procesów biznesowych"
+        ],
+        "requirements": [
+            "Doświadczenie w pracy z algorytmami uczenia maszynowego i narzędziami analizy danych (np. Python, R)",
+            "Znajomość metod statystycznych analizy danych",
+            "Umiejętność pracy z bazami danych i językami zapytań (SQL)"
+        ],
+        "conditions": [
+            "Możliwości rozwoju kariery",
+            "Interesujące projekty"
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Projektant Graficzny",
+        "salary": "wynagrodzenie od 40000 zł",
+        "time": "Pełny etat",
+        "location": "Warszawa",
+        "category": "Technologie informacyjne",
+        "responsibilities": [
+            "Tworzenie projektów graficznych dla drukowanych i cyfrowych produktów",
+            "Tworzenie grafik i ilustracji",
+            "Dostosowywanie projektów do różnych formatów i nośników"
+        ],
+        "requirements": [
+            "Umiejętność pracy z edytorami graficznymi, takimi jak Adobe Photoshop, Adobe Illustrator",
+            "Kreatywność i poczucie stylu",
+            "Doświadczenie w dziedzinie graficznego projektowania"
+        ],
+        "conditions": [
+            "Zatrudnienie na podstawie Kodeksu Pracy",
+            "Interesujące projekty"
+        ]
+    },
+    {
+        "id": 16,
+        "title": "Redaktor Techniczny",
+        "salary": "wynagrodzenie od 45000 zł",
+        "time": "Pełny etat",
+        "location": "Warszawa",
+        "category": "Finanse i księgowość",
+        "responsibilities": [
+            "Pisanie i redagowanie dokumentacji technicznej",
+            "Tworzenie instrukcji użytkownika i podręczników obsługi",
+            "Współpraca z programistami i inżynierami w celu zbierania informacji"
+        ],
+        "requirements": [
+            "Doskonała znajomość języka polskiego (pisemna)",
+            "Tło techniczne i zrozumienie zasad działania oprogramowania",
+            "Umiejętność organizacji i strukturyzacji informacji"
+        ],
+        "conditions": [
+            "Zatrudnienie na podstawie Kodeksu Pracy",
+            "Korporacyjne szkolenia"
+        ]
+    },
+    {
+        "id": 17,
+        "title": "Specjalista ds. Marketingu",
+        "salary": "wynagrodzenie od 50000 zł",
+        "time": "Pełny etat",
+        "location": "Warszawa",
+        "category": "Finanse i księgowość",
+        "responsibilities": [
+            "Tworzenie strategii i planów marketingowych",
+            "Przeprowadzanie badań marketingowych i analiza rynku",
+            "Organizacja i realizacja działań i kampanii marketingowych"
+        ],
+        "requirements": [
+            "Doświadczenie w pracy w marketingu lub reklamie",
+            "Znajomość podstawowych narzędzi marketingowych i analizy",
+            "Kreatywność i umiejętności analityczne"
+        ],
+        "conditions": [
+            "Zatrudnienie na podstawie Kodeksu Pracy",
+            "Bonusy i premie za wyniki pracy"
+        ]
+    },
+    {
+        "id": 18,
+        "title": "Kierownik Zasobów Ludzkich",
+        "salary": "wynagrodzenie od 60000 zł",
+        "time": "Pełny etat",
+        "location": "Warszawa",
+        "category": "Finanse i księgowość",
+        "responsibilities": [
+            "Rekrutacja i selekcja pracowników",
+            "Organizacja adaptacji nowych pracowników",
+            "Prowadzenie spraw kadrowych"
+        ],
+        "requirements": [
+            "Doświadczenie w pracy w obszarze HR",
+            "Znajomość prawa pracy i spraw kadrowych",
+            "Umiejętności przeprowadzania rozmów rekrutacyjnych i oceny kandydatów"
+        ],
+        "conditions": [
+            "Zatrudnienie na podstawie Kodeksu Pracy",
+            "Korporacyjne szkolenia i rozwój"
+        ]
+    },
+    {
+        "id": 19,
+        "title": "Specjalista ds. Obsługi Klienta",
+        "salary": "wynagrodzenie od 35000 zł",
+        "time": "Pełny etat",
+        "location": "Warszawa",
+        "category": "Finanse i księgowość",
+        "responsibilities": [
+            "Świadczenie wsparcia i konsultacji klientom",
+            "Rejestracja i obsługa zgłoszeń wsparcia technicznego",
+            "Współpraca z zespołem programistów w celu rozwiązania problemów"
+        ],
+        "requirements": [
+            "Doskonałe umiejętności komunikacyjne",
+            "Zrozumienie techniczne i zdolność do rozwiązywania problemów związanych z IT",
+            "Doświadczenie w obszarze wsparcia technicznego będzie dodatkowym atutem"
+        ],
+        "conditions": [
+            "Zatrudnienie na podstawie Kodeksu Pracy",
+            "Elastyczny czas pracy"
+        ]
+    },
+    {
+        "id": 20,
+        "title": "Analityk Finansowy",
+        "salary": "od 240000 zł",
+        "time": "Pełny etat",
+        "location": "Warszawa",
+        "category": "Finanse i księgowość",
+        "responsibilities": [
+            "Analiza wskaźników finansowych i sporządzanie raportów",
+            "Tworzenie modeli finansowych i prognoz",
+            "Udział w budżetowaniu i planowaniu zasobów finansowych"
+        ],
+        "requirements": [
+            "Doświadczenie w analizie finansowej",
+            "Znajomość zasad rachunkowości i zarządzania finansami",
+            "Umiejętność obsługi narzędzi i programów finansowych"
+        ],
+        "conditions": [
+            "Zatrudnienie na podstawie polskiego kodeksu pracy",
+            "Premie i nagrody za wyniki pracy"
+        ]
+    },
+    {
+        "id": 21,
+        "title": "Programista Frontend",
+        "salary": "od 240000 zł",
+        "time": "Pełny etat",
+        "location": "Warszawa",
+        "category": "Technologie informacyjne",
+        "responsibilities": [
+            "Rozwój i wsparcie aplikacji internetowych",
+            "Optymalizacja i testowanie kodu",
+            "Integracja z zewnętrznymi API i usługami"
+        ],
+        "requirements": [
+            "Znajomość języków programowania HTML, CSS, JavaScript",
+            "Doświadczenie w pracy z frameworkami i narzędziami do tworzenia aplikacji internetowych (np. React, Angular, Vue.js)",
+            "Zrozumienie zasad działania interfejsu RESTful API"
+        ],
+        "conditions": [
+            "Zatrudnienie na podstawie polskiego kodeksu pracy",
+            "Elastyczny grafik pracy"
+        ]
+    },
+    {
+        "id": 22,
+        "title": "Projektant UI/UX",
+        "salary": "od 200000 zł",
+        "time": "Pełny etat",
+        "location": "Warszawa",
+        "category": "Technologie informacyjne",
+        "responsibilities": [
+            "Rozwój interfejsu użytkownika i doświadczenia użytkownika",
+            "Tworzenie prototypów i makiet",
+            "Testowanie i poprawa projektu"
+        ],
+        "requirements": [
+            "Umiejętność pracy z edytorami graficznymi i narzędziami do tworzenia prototypów",
+            "Zrozumienie zasad projektowania UI/UX",
+            "Doświadczenie w projektowaniu interfejsów"
+        ],
+        "conditions": [
+            "Zatrudnienie na podstawie polskiego kodeksu pracy",
+            "Interesujące projekty"
+        ]
+    },
+    {
+        "id": 23,
+        "title": "Inżynier Zapewnienia Jakości Oprogramowania",
+        "salary": "od 200000 zł",
+        "time": "Pełny etat",
+        "location": "Warszawa",
+        "category": "Technologie informacyjne",
+        "responsibilities": [
+            "Planowanie i przeprowadzanie testów oprogramowania",
+            "Identyfikacja i analiza defektów",
+            "Tworzenie i utrzymywanie dokumentacji testowej"
+        ],
+        "requirements": [
+            "Doświadczenie w testowaniu oprogramowania",
+            "Znajomość metodologii testowania i narzędzi do automatyzacji",
+            "Umiejętności analityczne i dbałość o szczegóły"
+        ],
+        "conditions": [
+            "Zatrudnienie na podstawie polskiego kodeksu pracy",
+            "Możliwość pracy zdalnej"
+        ]
+    },
+    {
+        "id": 24,
+        "title": "Kierownik Projektu",
+        "salary": "od 280000 zł",
+        "time": "Pełny etat",
+        "location": "Warszawa",
+        "category": "Technologie informacyjne",
+        "responsibilities": [
+            "Planowanie, organizacja i kontrola realizacji projektów",
+            "Zarządzanie budżetem i zasobami projektu",
+            "Współpraca z zespołem i klientami"
+        ],
+        "requirements": [
+            "Doświadczenie w zarządzaniu projektami",
+            "Znajomość metodologii zarządzania projektami (np. Agile, Waterfall)",
+            "Umiejętności przywódcze i komunikacyjne"
+        ],
+        "conditions": [
+            "Zatrudnienie na podstawie polskiego kodeksu pracy",
+            "Możliwość rozwoju kariery"
+        ]
+    },
+    {
+        "id": 25,
+        "title": "Autor Treści",
+        "salary": "od 140000 zł",
+        "time": "Pełny etat",
+        "location": "Warszawa",
+        "category": "Finanse i księgowość",
+        "responsibilities": [
+            "Tworzenie unikalnych treści dla różnych platform i kanałów",
+            "Redagowanie i korekta tekstów",
+            "Analiza rynku i konkurencji w celu opracowania skutecznych treści"
+        ],
+        "requirements": [
+            "Doskonała znajomość języka rosyjskiego w piśmie",
+            "Kreatywność i umiejętność generowania pomysłów",
+            "Doświadczenie w pisaniu treści lub dziennikarstwie będzie dodatkowym atutem"
+        ],
+        "conditions": [
+            "Zatrudnienie na podstawie polskiego kodeksu pracy",
+            "Elastyczny grafik pracy"
+        ]
+    },
+    {
+        "id": 26,
+        "title": "Menadżer Sprzedaży",
+        "salary": "od 200000 zł",
+        "time": "Pełny etat",
+        "location": "Warszawa",
+        "category": "Finanse i księgowość",
+        "responsibilities": [
+            "Poszukiwanie i pozyskiwanie klientów",
+            "Przeprowadzanie negocjacji i zawieranie transakcji",
+            "Analiza rynku i konkurencji"
+        ],
+        "requirements": [
+            "Doświadczenie w sprzedaży",
+            "Pewne umiejętności komunikacyjne i perswazyjne",
+            "Znajomość podstawowych narzędzi sprzedaży i systemów CRM"
+        ],
+        "conditions": [
+            "Zatrudnienie na podstawie polskiego kodeksu pracy",
+            "Premie i nagrody za wyniki pracy"
+        ]
+    },
+    {
+        "id": 27,
+        "title": "Specjalista Wsparcia Technicznego IT",
+        "salary": "od 160000 zł",
+        "time": "Pełny etat",
+        "location": "Warszawa",
+        "category": "Technologie informacyjne",
+        "responsibilities": [
+            "Zapewnienie wsparcia technicznego dla użytkowników",
+            "Usuwanie usterek i konfiguracja sprzętu komputerowego",
+            "Zarządzanie kontami użytkowników i uprawnieniami dostępu"
+        ],
+        "requirements": [
+            "Zrozumienie techniczne i doświadczenie w pracy z oprogramowaniem i sprzętem komputerowym",
+            "Umiejętności komunikacyjne i praca z ludźmi",
+            "Certyfikacja i doświadczenie w systemach informatycznych będą dodatkowym atutem"
+        ],
+        "conditions": [
+            "Zatrudnienie na podstawie polskiego kodeksu pracy",
+            "Możliwość rozwoju zawodowego"
+        ]
+    },
+    {
+        "id": 28,
+        "title": "Specjalista ds. Mediów Społecznościowych",
+        "salary": "od 160000 zł",
+        "time": "Pełny etat",
+        "location": "Warszawa",
+        "category": "Technologie informacyjne",
+        "responsibilities": [
+            "Tworzenie i zarządzanie treścią w mediach społecznościowych",
+            "Planowanie i realizacja kampanii reklamowych",
+            "Analiza wyników i optymalizacja strategii"
+        ],
+        "requirements": [
+            "Doświadczenie w zarządzaniu mediami społecznościowymi",
+            "Znajomość głównych platform społecznościowych i narzędzi analitycznych",
+            "Kreatywność i umiejętność tworzenia atrakcyjnej treści"
+        ],
+        "conditions": [
+            "Zatrudnienie na podstawie polskiego kodeksu pracy",
+            "Premie i nagrody za wyniki pracy"
+        ]
+    },
+    {
+        "id": 29,
+        "title": "Analityk Danych",
+        "salary": "od 200000 zł",
+        "time": "Pełny etat",
+        "location": "Warszawa",
+        "category": "Technologie informacyjne",
+        "responsibilities": [
+            "Zbieranie i analiza danych",
+            "Tworzenie raportów i wizualizacji",
+            "Identyfikacja trendów i wzorców"
+        ],
+        "requirements": [
+            "Doświadczenie w analizie danych",
+            "Znajomość głównych narzędzi analitycznych i baz danych",
+            "Myślenie analityczne i umiejętności matematyczne"
+        ],
+        "conditions": [
+            "Zatrudnienie na podstawie polskiego kodeksu pracy",
+            "Elastyczny grafik pracy"
+        ]
+    },
+    {
+        "id": 30,
+        "title": "Kierownik Rozwoju Biznesu",
+        "salary": "od 280000 zł",
+        "time": "Pełny etat",
+        "location": "Warszawa",
+        "category": "Finanse i księgowość",
+        "responsibilities": [
+            "Poszukiwanie i analiza potencjalnych klientów i rynków",
+            "Prowadzenie negocjacji i zawieranie transakcji",
+            "Rozwój i wsparcie relacji z klientami"
+        ],
+        "requirements": [
+            "Doświadczenie w rozwoju biznesu i sprzedaży",
+            "Pewne umiejętności komunikacyjne i przekonywania",
+            "Myślenie strategiczne i umiejętności analityczne"
+        ],
+        "conditions": [
+            "Zatrudnienie na podstawie polskiego kodeksu pracy",
+            "Premie i nagrody za wyniki pracy"
+        ]
+    },
+    {
+        "id": 31,
+        "title": "Projektant Graficzny",
+        "salary": "od 200000 zł",
+        "time": "Pełny etat",
+        "location": "Warszawa",
+        "category": "Technologie informacyjne",
+        "responsibilities": [
+            "Tworzenie materiałów graficznych i projektów",
+            "Rozwój projektów dla różnych kanałów mediów",
+            "Praca z edytorami graficznymi i narzędziami projektowania"
+        ],
+        "requirements": [
+            "Umiejętność pracy z edytorami graficznymi i narzędziami projektowania",
+            "Kreatywność i wizualne myślenie",
+            "Doświadczenie w projektowaniu graficznym będzie dodatkowym atutem"
+        ],
+        "conditions": [
+            "Zatrudnienie na podstawie polskiego kodeksu pracy",
+            "Interesujące projekty"
+        ]
+    },
+    {
+        "id": 32,
+        "title": "Pielęgniarka",
+        "salary": "od 160000 zł",
+        "time": "Pełny etat",
+        "location": "Gdańsk",
+        "category": "Opieka zdrowotna i medycyna",
+        "responsibilities": [
+            "Świadczenie pomocy medycznej pacjentom",
+            "Przestrzeganie protokołów i procedur medycznych",
+            "Prowadzenie dokumentacji medycznej"
+        ],
+        "requirements": [
+            "Wykształcenie pielęgniarskie",
+            "Posiadanie certyfikatu pielęgniarki",
+            "Doświadczenie w pracy w placówce medycznej"
+        ],
+        "conditions": [
+            "Zatrudnienie na podstawie polskiego kodeksu pracy",
+            "Grafik pracy zmianowy"
+        ]
+    },
+    {
+        "id": 33,
+        "title": "Nauczyciel Języka Angielskiego",
+        "salary": "od 120000 zł",
+        "time": "Niezatrudniony na pełny etat",
+        "location": "Warszawa",
+        "category": "Edukacja",
+        "responsibilities": [
+            "Prowadzenie zajęć z języka angielskiego",
+            "Opracowywanie programów nauczania i materiałów dydaktycznych",
+            "Ocenianie postępów uczniów"
+        ],
+        "requirements": [
+            "Wykształcenie wyższe związane z nauczaniem",
+            "Biegła znajomość języka angielskiego",
+            "Doświadczenie w nauczaniu języka angielskiego"
+        ],
+        "conditions": [
+            "Elastyczny grafik pracy",
+            "Możliwości rozwoju zawodowego"
+        ]
+    },
+    {
+        "id": 34,
+        "title": "Inżynier Elektryk",
+        "salary": "od 240000 zł",
+        "time": "Pełny etat",
+        "location": "Kraków",
+        "category": "Inżynieria",
+        "responsibilities": [
+            "Projektowanie i planowanie systemów elektrycznych",
+            "Montaż i konserwacja urządzeń elektrycznych",
+            "Wykonywanie testów i diagnostyka"
+        ],
+        "requirements": [
+            "Wykształcenie wyższe techniczne",
+            "Doświadczenie w dziedzinie elektrotechniki",
+            "Znajomość odpowiednich norm i standardów"
+        ],
+        "conditions": [
+            "Oficjalne zatrudnienie",
+            "Rozwój umiejętności zawodowych"
+        ]
+    },
+    {
+        "id": 35,
+        "title": "Rejestrator Medyczny",
+        "salary": "od 100000 zł",
+        "time": "Niezatrudniony na pełny etat",
+        "location": "Kraków",
+        "category": "Opieka zdrowotna i medycyna",
+        "responsibilities": [
+            "Rejestracja pacjentów w placówce medycznej",
+            "Prowadzenie dokumentacji medycznej i rejestracyjnej",
+            "Przygotowywanie raportów i informacji statystycznych"
+        ],
+        "requirements": [
+            "Wykształcenie medyczne nie jest wymagane",
+            "Doświadczenie w rejestracji medycznej",
+            "Uwaga i odpowiedzialność"
+        ],
+        "conditions": [
+            "Grafik pracy zmianowy",
+            "Możliwości awansu zawodowego"
+        ]
+    },
+    {
+        "id": 36,
+        "title": "Nauczyciel Fizyki",
+        "salary": "od 140000 zł",
+        "time": "Pełny etat",
+        "location": "Warszawa",
+        "category": "Edukacja",
+        "responsibilities": [
+            "Prowadzenie lekcji z fizyki",
+            "Opracowywanie planów lekcji i programów nauczania",
+            "Przygotowywanie materiałów dydaktycznych"
+        ],
+        "requirements": [
+            "Wykształcenie wyższe z fizyki",
+            "Doświadczenie w pracy jako nauczyciel",
+            "Znajomość nowoczesnych metod nauczania"
+        ],
+        "conditions": [
+            "Zatrudnienie na podstawie polskiego kodeksu pracy",
+            "Dostęp do zasobów naukowych"
+        ]
+    },
+    {
+        "id": 37,
+        "title": "Inżynier Mechanik",
+        "salary": "od 190000 zł",
+        "time": "Pełny etat",
+        "location": "Warszawa",
+        "category": "Inżynieria",
+        "responsibilities": [
+            "Projektowanie i modyfikacja systemów mechanicznych",
+            "Przeprowadzanie testów i analiza wyników",
+            "Zapewnienie wsparcia technicznego"
+        ],
+        "requirements": [
+            "Wykształcenie wyższe techniczne",
+            "Doświadczenie w inżynierii mechanicznej",
+            "Znajomość programów CAD i metod obliczeniowych"
+        ],
+        "conditions": [
+            "Zatrudnienie na podstawie polskiego kodeksu pracy",
+            "Szkolenia i rozwój"
+        ]
+    },
+    {
+        "id": 38,
+        "title": "Asystent Laboratorium Medycznego",
+        "salary": "od 120000 zł",
+        "time": "Niezatrudniony na pełny etat",
+        "location": "Warszawa",
+        "category": "Opieka zdrowotna i medycyna",
+        "responsibilities": [
+            "Prowadzenie badań laboratoryjnych",
+            "Przetwarzanie i analiza danych",
+            "Przygotowywanie raportów i protokołów"
+        ],
+        "requirements": [
+            "Wykształcenie medyczne lub biologiczne",
+            "Doświadczenie w pracy w laboratorium",
+            "Znajomość metod i urządzeń analitycznych"
+        ],
+        "conditions": [
+            "Elastyczny grafik pracy",
+            "Ubezpieczenie medyczne"
+        ]
+    },
+    {
+        "id": 39,
+        "title": "Nauczyciel Matematyki",
+        "salary": "od 160000 zł",
+        "time": "Pełny etat",
+        "location": "Warszawa",
+        "category": "Edukacja",
+        "responsibilities": [
+            "Prowadzenie lekcji z matematyki",
+            "Opracowywanie programów nauczania i metod",
+            "Przygotowywanie uczniów do olimpiad i egzaminów"
+        ],
+        "requirements": [
+            "Wykształcenie wyższe z matematyki",
+            "Doświadczenie w pracy w szkole lub liceum",
+            "Znajomość nowoczesnych podejść do nauczania"
+        ],
+        "conditions": [
+            "Oficjalne zatrudnienie",
+            "Rozwój zawodowy"
+        ]
+    },
+    {
+        "id": 40,
+        "title": "Inżynier Budowlany",
+        "salary": "od 260000 zł",
+        "time": "Pełny etat",
+        "location": "Warszawa",
+        "category": "Inżynieria",
+        "responsibilities": [
+            "Opracowywanie dokumentacji projektowej",
+            "Organizacja i kontrola prac budowlanych",
+            "Udział w oddawaniu obiektów do użytku"
+        ],
+        "requirements": [
+            "Wykształcenie wyższe techniczne",
+            "Doświadczenie w budownictwie",
+            "Znajomość norm i przepisów budowlanych"
+        ],
+        "conditions": [
+            "Zatrudnienie na podstawie polskiego kodeksu pracy",
+            "Pakiet socjalny"
+        ]
+    },
+    {
+        "id": 41,
+        "title": "Felczer Medyczny",
+        "salary": "od 140000 zł",
+        "time": "Pełny etat",
+        "location": "Warszawa",
+        "category": "Opieka zdrowotna i medycyna",
+        "responsibilities": [
+            "Świadczenie pierwszej pomocy medycznej",
+            "Przeprowadzanie zabiegów medycznych i iniekcji",
+            "Prowadzenie dokumentacji medycznej"
+        ],
+        "requirements": [
+            "Wykształcenie medyczne",
+            "Licencja na wykonywanie czynności medycznych",
+            "Doświadczenie w pracy jako felczer"
+        ],
+        "conditions": [
+            "Zatrudnienie na podstawie polskiego kodeksu pracy",
+            "Ubezpieczenie medyczne"
+        ]
+    }
+]
